@@ -4,6 +4,8 @@ Keeping track of resources I find for ReasonML and OCaml
 ## Syntax primers
 
 * https://medium.com/reasontraining/lets-make-a-reasonable-binary-search-tree-35628b2c78f7
+* https://medium.com/reasontraining/phantom-types-in-reasonml-1a4cfc18d999
+* https://medium.com/reasontraining/universal-existential-types-in-reasonml-efc281f4ee5
 
 ## opam
 
